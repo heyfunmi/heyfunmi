@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Oluwafunmilola, you can call me funmi.
 I'm a Data Scientist, Data Analyst and a Technical Writer.
-I'm well vast in using Python, SQL , PowerBI, Excel for data analysis. You can view some of my data analysis projects on the link on my profile.
+I'm well vast in using Python, SQL , PowerBI and Excel for data analysis. You can view some of my data analysis projects on the link on my profile.
 I'm also knowledgeable in building both classification and regression models.
 
 
