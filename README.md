@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**heyfunmi/heyfunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oluwafunmilola, you can call me funmi.
+I'm a Data Scientist, Data Analyst and a Technical Writer.
+I'm well vast in using Python, SQL , PowerBI, Excel for data analysis. You can view some of my data analysis projects on the link on my profile.
+I'm also knowledgeable in building both classification and regression models.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🔭 I’m currently working on more machine learning projects, both classification and regression models.
+
+ 🌱 I’m currently learning how to deploy machine learning models to the cloud using flask, Docker and Azure.
+
+  👯 I’m looking to collaborate on machine learning and data analysis projects.
+
+  🤔 I’m looking for help with understanding model deployment and management.
+  
+  💬 Ask me about Data Science, Data Analysis and ML.
+  
+  📫 How to reach me: heyfunmi@gmail.com
+
+  😄 Pronouns: She/Her
+  
+   Fun fact: I'm a part time clown 😂
+
+
 -->
