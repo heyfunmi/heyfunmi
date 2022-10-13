@@ -12,16 +12,9 @@ I'm also knowledgeable in building both classification and regression models.
  🌱 I’m currently learning how to deploy machine learning models to the cloud using flask, Docker and Azure.
 
   👯 I’m looking to collaborate on machine learning and data analysis projects.
+  
 
-  🤔 I’m looking for help with understanding model deployment and management.
-  
-  💬 Ask me about Data Science, Data Analysis and ML.
-  
   📫 How to reach me: heyfunmi@gmail.com
 
-  😄 Pronouns: She/Her
-  
-   Fun fact: I'm a part time clown 😂
+ 
 
-
--->
